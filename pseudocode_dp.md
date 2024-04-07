@@ -99,4 +99,8 @@ Explanation: There are 5 ways to assign symbols to make the sum of nums be targe
 
 
 Approach -->   at the end we are getting subsets and we have to calculate the difference between them. 
-and then we will apply the Count the subsets with given difference
+and then we will apply the **Count the subsets with given difference**  
+
+
+## Unbounded Knapsack
+
